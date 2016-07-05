@@ -1,3 +1,3 @@
-# emacs
+# configuration-files
 
-Pastebin for all my emacs-related stuff.
+Pastebin for all of the different configuration files in the system.
